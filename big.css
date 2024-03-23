@@ -1,0 +1,42 @@
+*{
+    background-color: black;
+}
+.container {
+    text-align: left;
+    margin-top: 50px;
+    margin-left: 50px;
+    
+}
+
+p{
+    color: red;
+}
+
+#heading{
+    color: white;
+    font-size: 30px;
+    text-align: left;
+}
+#head{
+    color: white;
+}
+
+
+#decrement{
+background-color: aliceblue;
+font-size: 20px;
+}
+#increment{
+background-color: aliceblue;
+font-size: 20px;
+}
+#clear{
+background-color:black;
+font-size: 20px;
+color: aliceblue;
+border: 1px solid white;
+}
+.btn{
+font-size: 30px;
+justify-content: space-between;
+}
